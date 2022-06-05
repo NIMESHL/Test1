@@ -1,3 +1,6 @@
+#  the below SQL query shows how to fetch all the details from the Customers table #
+
+
 CustomerID	| CustomerName | 	ContactName	 | Address	     | City	  | PostalCode | Country
 1           |Alfreds       |  Maria Anders | Obere Str. 57 | Berlin | 12209	     | Germany
              Futterkiste		 
